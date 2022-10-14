@@ -32,6 +32,7 @@ module.exports = {
       },
 
       'red-800': '#C00808',
+      'green-500': '#2AF719',
       transparent: 'transparent'
 
     },
